@@ -26,3 +26,5 @@ Exit and create a lambda package
 ```
 zip -r ruby_gems.zip ./ruby/ ./lib/
 ```
+
+Go to your AWS Lambda Console, create a new Lambda function and upload your .zip file
